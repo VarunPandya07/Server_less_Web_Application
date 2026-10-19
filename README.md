@@ -127,7 +127,7 @@ Through this project, the following concepts can be explored:
 
 **Varun Pandya**
 
-- LinkedIn: [Visit My LinkedIn Profile](YOUR_LINKEDIN_PROFILE_URL)
+- LinkedIn: [Visit My LinkedIn Profile](https://www.linkedin.com/in/varun-pandya-703751223/)
 
 ---
 
